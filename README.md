@@ -1,3 +1,17 @@
+# React homework 2
+Application url: [https://pdffillerjsschool-homework.firebaseapp.com/](https://pdffillerjsschool-homework.firebaseapp.com/)
+
+
+### Install dependencies
+```npm install```
+
+### Build
+```npm run build```
+
+### Start application
+```npm run start```
+
+### Task
 Написать приложение, которое может выводить алерты на странице.
 Требования:
 - На странице должен быть инпут и кнопка «Add alert»
