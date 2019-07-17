@@ -4,7 +4,6 @@ export default class Alerts extends React.Component {
   render() {
     const alertsArray = this.props.alerts;
 
-    console.log("Alerts", alertsArray);
     if (!alertsArray) return "";
 
     return (
